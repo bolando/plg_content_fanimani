@@ -1,0 +1,15 @@
+div.fanimani {
+    display: block;
+    float: left;
+    padding-right: 10px;
+}
+div.fanimani table tr td {
+    margin: 1px !important;
+    padding: 2px !important;
+}
+div.fanimani table tr.row0  {
+    background-color:#efefef;
+}
+div.fanimani table tr.row1 {
+    background-color:#ffffff;
+}
